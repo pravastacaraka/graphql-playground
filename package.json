@@ -1,0 +1,30 @@
+{
+  "name": "basic-graphql-nodejs",
+  "version": "1.0.0",
+  "description": "Just learn GraphQL in Node.js Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "graphql",
+    "nodejs"
+  ],
+  "author": "Pravasta Caraka <hello@pravastacaraka.my.id>",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.3.0",
+    "apollo-server-core": "^3.3.0",
+    "dotenv": "^10.0.0",
+    "graphql": "^15.5.2",
+    "mongoose": "^6.0.3"
+  },
+  "devDependencies": {
+    "prettier": "^2.3.2"
+  },
+  "prettier": {
+    "tabWidth": 2,
+    "useTabs": false,
+    "printWidth": 140
+  }
+}
