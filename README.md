@@ -18,7 +18,6 @@ To get this website running locally, type this into your terminal:
 $ git clone git@github.com:pravastacaraka/graphql-playground.git graphql-playground
 $ cd graphql-playground
 $ npm install # or yarn
-$ npm install -g nodemon
 $ nodemon index.js
 ```
 

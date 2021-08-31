@@ -24,6 +24,9 @@
     "nodemon": "^2.0.12",
     "prettier": "^2.3.2"
   },
+  "engines": {
+    "node": "14.x"
+  },
   "prettier": {
     "tabWidth": 2,
     "useTabs": false,
