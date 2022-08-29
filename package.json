@@ -16,7 +16,7 @@
   "license": "GNU General Public License v3.0",
   "dependencies": {
     "apollo-server": "^3.3.0",
-    "apollo-server-core": "^3.3.0",
+    "apollo-server-core": "^3.10.1",
     "dotenv": "^10.0.0",
     "graphql": "^15.5.2",
     "mongoose": "^6.4.6"
